@@ -1,2 +1,6 @@
-# xz-cache
-golang 本地缓存，参考了两个开源项目的代码结合的，本来是想试用一下go的泛型
+
+# golang 学习项目
+
+参考了 go-cache  https://github.com/patrickmn/go-cache
+
+使用 xzmap 包作为本地缓存的map
